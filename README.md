@@ -58,15 +58,24 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
+## Barcode Examples
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+```bash
+# revenue bills
+836700000034976900060006001012022438251235282000
+816000000009689216052027204078002027202759395058
+846000000006449902931004011220585217922046776691
+
+# bank bills
+26091241735166236725285800000003489520000485215
+00190000090287490201496132988179389560000049926
+03399492813698190910869253801026500000000000000
+```
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Isadora Costa](https://github.com/Isadora-Costa)
+- LinkedIn - [Isadora Costa](https://www.linkedin.com/in/isadora-costa-97354a244/)
 
 ## License
 
